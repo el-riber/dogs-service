@@ -1,6 +1,5 @@
 
 
-### README.md Template for Your NestJS Dogs Controller Project
 
 
 # Dogs Service
